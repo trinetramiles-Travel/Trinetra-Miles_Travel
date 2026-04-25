@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/f09896ff-3b8e-475f-a8d0-604ef696639c" /># ✈️ Trinetra Miles Travels - International Flight Booking System
+✈️ Trinetra Miles Travels 
 
 Welcome to the official repository of **Trinetra Miles Travels**. This platform is designed for international travelers, specifically focusing on routes between **France (Paris)**, **Saudi Arabia (Jeddah/Riyadh)**, and the **UAE (Dubai)**.
 
@@ -33,8 +33,8 @@ To ensure lead generation, this project implements:
 For bookings, partnerships, or lead inquiries:
 - **Telegram** https://t.me/Trinetramiles
 - **Watsapp** https://whatsapp.com/channel/0029VbCSe2R9MF980RWjTN1X
-- **Instagram**
-- **Email** trinetramiles@gmail.com
-- **WhatsApp:** 
+- **Instagram**https://www.instagram.com/trinetramiles/
+- **Facebook** https://www.facebook.com/TrinetraAirlineMiles
+- **Email** trinetramiles@gmail.com 
 ---
 *Trinetra Miles Travels - Connecting France to the Middle East.*
